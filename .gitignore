@@ -1,0 +1,17 @@
+*.suo
+OpenGLESApp1/ARM/Debug
+*.opendb
+*.db
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.Android.Application/ARM
+*.user
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.Android.Application/x86
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.Android.NativeActivity/ARM
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.Android.NativeActivity/x86
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.Android.StaticLibrary/ARM
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.Android.StaticLibrary/x86
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.WindowsUniversal.Application/ARM
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.WindowsUniversal.Application/x64
+OpenGLESApp1/OpenGLESApp1/OpenGLESApp1.WindowsUniversal.StaticLibrary/x64
+*.ipch
+OpenGLESApp1/x64
+OpenGLESApp1/x86
